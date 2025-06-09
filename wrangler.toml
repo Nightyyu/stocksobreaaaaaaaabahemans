@@ -1,0 +1,14 @@
+name = "zynexapistock"
+main = "worker.mjs"
+compatibility_date = "2025-06-09"
+
+[build]
+upload.format = "modules"
+
+[[rules]]
+type = "ESModule"
+globs = ["**/*.mjs"]
+
+[[rules]]
+type = "Python"
+globs = ["**/*.py"]
