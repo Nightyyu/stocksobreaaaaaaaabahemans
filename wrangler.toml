@@ -1,6 +1,0 @@
-name = "zynexapistock"
-main = "worker.mjs"
-compatibility_date = "2025-06-09"
-
-[[bindings]]
-type = "python_worker"
