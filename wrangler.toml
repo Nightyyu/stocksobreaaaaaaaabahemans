@@ -1,0 +1,7 @@
+name = "stocksobreaaaaaaaabahemans"
+main = "worker.js"
+compatibility_date = "2025-06-09"
+
+kv_namespaces = [
+  { binding = "STOCK_KV", id = "<ID_DO_SEU_NAMESPACE_KV>" }
+]
